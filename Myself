@@ -1,2 +1,12 @@
 My name is Udara jayawardena
 This is My First Repository
+
+Hello World Programme
+
+First Ever Java Programme
+-------------------------
+class Demo{
+  public static void main(String...args){
+    System.out.println("Hello World"); 
+  }
+}
