@@ -1,0 +1,53 @@
+Definitions of R
+================
+Data analysis by using statistical concept/methodology is usually achieved by writing a code. The programming language used to perform this task is called statistical programming. There are many softwares available to perform desired statistical analysis. Most widely used ones are R, SAS and SPSS.
+
+R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis.
+
+R is a system for statistical computation and graphics. It provides, among other things, a programming language, high level graphics, interfaces to other languages and debugging facilities. This manual details and defines the R language.
+
+Predictive Analytics
+====================
+Predictive analytics encompasses a variety of statistical techniques from data mining, predictive modelling, and machine learning, that analyze current and historical facts to make predictions about future or otherwise unknown events
+
+Predictive analytics is the practice of extracting information from existing data sets in order to determine patterns and predict future outcomes and trends. Predictive analytics does not tell you what will happen in the future.
+
+Machine Learning
+================
+
+Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to progressively improve their performance on a specific task. Machine learning algorithms build a mathematical model of sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to perform the task.[1][2]:2 Machine learning algorithms are used in the applications of email filtering, detection of network intruders, and computer vision, where it is infeasible to develop an algorithm of specific instructions for performing the task. Machine learning is closely related to computational statistics, which focuses on making predictions using computers.
+
+Machine learning (ML) is the study of algorithms and mathematical models that computer systems use to progressively improve their performance on a specific task. Machine learning algorithms build a mathematical model of sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to perform the task.
+
+Machine learning works by finding a function, or a relationship, from input X to output Y. The high level and most commonly accepted definition is: machine learning is the ability for computers to learn and act without being explicitly programmed.
+
+Data Mining
+===========
+Data mining is the process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.[1] Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal to extract information (with intelligent methods) from a data set and transform the information into a comprehensible structure for further use.
+
+For businesses, data mining is used to discover patterns and relationships in the data in order to help make better business decisions. Data mining can help spot sales trends, develop smarter marketing campaigns, and accurately predict customer loyalty.
+
+Fundamentally, data mining is about processing data and identifying patterns and trends in that information so that you can decide or judge. Data mining principles have been around for many years, but, with the advent of big data, it is even more prevalent.
+
+Data Mining Techs
+=================
+Anomaly or Outlier Detection. Anomaly detection refers to the search for data items in a dataset that do not match a projected pattern or expected behaviour. ...
+Association Rule Learning. ...
+Clustering Analysis. ...
+Classification Analysis. ...
+Regression Analysis.
+
+Data Mining Tools
+=================
+#1) Rapid Miner. Availability: Open source.
+#2) Orange. Availability: Open source.
+#3) Weka. Availability: Free software.
+#4) KNIME. Availability: Open Source.
+#4) Sisense. Availability: Licensed. 
+#6) Apache Mahout.
+
+Artificial Neural Networking
+============================
+Artificial Neural Networks (ANN) or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains.[1] The neural network itself is not an algorithm, but rather a framework for many different machine learning algorithms to work together and process complex data inputs.[2] Such systems "learn" to perform tasks by considering examples, generally without being programmed with any task-specific rules. 
+
+A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. Neural networks can adapt to changing input so the network generates the best possible result without needing to redesign the output criteria.
